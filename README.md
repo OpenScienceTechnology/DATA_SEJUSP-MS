@@ -80,7 +80,7 @@ Links sugeridos para download direto:
 
 ---
 
-## 4. Escopo temporal do arquivo analisado
+## 4. 📅 Escopo temporal do arquivo analisado
 
 | Ano | Registros |
 |---:|---:|
@@ -105,7 +105,7 @@ Ano de 2026: parcial
 Registros em 2026 no arquivo analisado: 147
 ```
 
-Distribuição parcial de 2026 no arquivo analisado:
+📆 Distribuição parcial de 2026 no arquivo analisado:
 
 | Mês de 2026 | Registros |
 |---:|---:|
@@ -418,7 +418,7 @@ Acesso em: 21 maio 2026.
 
 ---
 
-## 19. Licença
+## 19. 📜 Licença
 
 A página do recurso informa **"Nenhuma Licença Fornecida"**. Antes de redistribuir, publicar derivações ou utilizar comercialmente, recomenda-se confirmar as condições de uso junto ao Portal de Dados Abertos de Mato Grosso do Sul ou ao órgão responsável.
 
