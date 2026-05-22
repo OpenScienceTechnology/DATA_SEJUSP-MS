@@ -33,6 +33,12 @@ URL base para download pelo datastore:
 https://www.dados.ms.gov.br/datastore/dump/crimes-violentos-letais-intencionais-sejusp
 ```
 
+URL 🔗 Dados 💾 Endpoint da API:
+
+```text
+curl -L "https://www.dados.ms.gov.br/api/3/action/datastore_search?resource_id=crimes-violentos-letais-intencionais-sejusp"
+```
+
 Formatos indicados pelo portal:
 
 ```text
